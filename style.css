@@ -37,7 +37,8 @@ color: orangered;
 color:orange;
 }
 
- p{
+ p{ 
+    text-indent: 20px;
 
 text-align: justify;
 }
